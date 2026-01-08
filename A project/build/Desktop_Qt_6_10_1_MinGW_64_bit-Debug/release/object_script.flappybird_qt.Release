@@ -1,0 +1,10 @@
+release/main.o
+release/widget.o
+release/scene.o
+release/bird.o
+release/pillaritem.o
+release/qrc_resource.o
+release/moc_widget.o
+release/moc_scene.o
+release/moc_bird.o
+release/moc_pillaritem.o
